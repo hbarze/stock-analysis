@@ -13,9 +13,17 @@ This challange went relatively smoothly, but for some reason I keep encountering
    
 I am unable to determine why the code runs perfectly for year 2018, resulting in the following pop up image with a run time of 0.0703125 seconds: 
 <img width="260" alt="Screen Shot 2021-12-26 at 9 39 32 PM" src="https://user-images.githubusercontent.com/96043107/147435250-278e0ac6-0fba-4200-95a4-0b7d7b4d2dec.png">
+
+
+
+
 But this is my first time using VBA, and I'm pleased that I was able to get it to work for at least one of the years.. 
 
 Compared to the original run time of 2018 within the module, our original code resulted in a run time of: 0.2578125 seconds, as seen here: <img width="255" alt="Screen Shot 2021-12-26 at 9 48 34 PM" src="https://user-images.githubusercontent.com/96043107/147435531-432d71ea-3f68-4e71-9ac4-d9506899233b.png">
+
+
+
+
 So, the new code is about 70% faster than the old code from module 2, which is quite an improvement. 
 
 
