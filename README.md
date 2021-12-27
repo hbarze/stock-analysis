@@ -29,6 +29,7 @@ So, the new code is about 70% faster than the old code from module 2, which is q
 
 
 3. Summary:
+
 3a: The advantages and disadvantages of refactoring code
 
    The main advantages of refactoring code include making the code easier for someone to follow along as to what were doing, and helps with code organization. This     would allow for overall faster coding, programming, and would help in the debugging stage. The code becomes simpler to read and understand because the data is       looped all together instead of in pieces. Sometimes, refactoring code isn't possible because of the size of some particular datasets, or in some cases if you       are experimenting with a new set of code that has not been refactored before. Overall, refactoring is preferred in order to keep code neat, easy to follow            along, and concise. 
